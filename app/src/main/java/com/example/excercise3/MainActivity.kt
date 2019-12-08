@@ -65,7 +65,7 @@ class MainActivity : AppCompatActivity() {
 
 
                 insuranceTextView.setText("Insurance Premium : RM" + total)
-            
+
 
 
 
